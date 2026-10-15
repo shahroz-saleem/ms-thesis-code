@@ -1,0 +1,4 @@
+firmware/bin/
+__pycache__/
+.vscode
+results
